@@ -1,0 +1,49 @@
+[
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:25.905626",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "cPWY8sVhSCSQqf0rg_ztCA",
+    "updated_at": "2020-01-05 13:42:25.905626",
+    "url": "https://api.chucknorris.io/jokes/cPWY8sVhSCSQqf0rg_ztCA",
+    "value": "Chuck Norris is so American, he eats tyranny and shits apple pie."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:20.841843",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "HwaAStnqSc6arCrrRoUATw",
+    "updated_at": "2020-01-05 13:42:20.841843",
+    "url": "https://api.chucknorris.io/jokes/HwaAStnqSc6arCrrRoUATw",
+    "value": "Chuck Norris goes on a daily walk to the moon!"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:28.420821",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "nrxnz9iyRqqgNix3GzVajA",
+    "updated_at": "2020-01-05 13:42:28.420821",
+    "url": "https://api.chucknorris.io/jokes/nrxnz9iyRqqgNix3GzVajA",
+    "value": "Chuck Norris can clap with one hand."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:20.841843",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "79kCrEiRRx-VUnzXeRxkEw",
+    "updated_at": "2020-01-05 13:42:20.841843",
+    "url": "https://api.chucknorris.io/jokes/79kCrEiRRx-VUnzXeRxkEw",
+    "value": "Chuck Norris has counted to infinity and negative infinity, mutliple times, while waiting in line at the DMV."
+  },
+  {
+    "categories": [
+      "dev"
+    ],
+    "created_at": "2020-01-05 13:42:19.324003",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "uq-vwbx5t2g5xp95aggyxa",
+    "updated_at": "2020-01-05 13:42:19.324003",
+    "url": "https://api.chucknorris.io/jokes/uq-vwbx5t2g5xp95aggyxa",
+    "value": "When Chuck Norris break the build, you can't fix it, because there is not a single line of code left."
+  }
+]
